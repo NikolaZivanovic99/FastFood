@@ -1,0 +1,15 @@
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\DataLayer.deps.json
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.json
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\DataLayer.runtimeconfig.dev.json
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\ref\DataLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.AssemblyInfo.cs
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\ref\DataLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.pdb
+C:\Users\ZILE\Desktop\filipo\WebProject\DataLayer\obj\Debug\net5.0\DataLayer.genruntimeconfig.cache

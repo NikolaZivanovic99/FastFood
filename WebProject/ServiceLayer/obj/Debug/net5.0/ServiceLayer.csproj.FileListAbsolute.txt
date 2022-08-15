@@ -1,0 +1,15 @@
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\ref\ServiceLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\DataLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\bin\Debug\net5.0\DataLayer.pdb
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
+C:\Users\ZILE\Desktop\filipo\WebProject\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
